@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNTBot", "TNTBot\TNTBot.csproj", "{81E3D02A-D7E6-408A-9AD9-85F6C01B5372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E3D02A-D7E6-408A-9AD9-85F6C01B5372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E3D02A-D7E6-408A-9AD9-85F6C01B5372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E3D02A-D7E6-408A-9AD9-85F6C01B5372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E3D02A-D7E6-408A-9AD9-85F6C01B5372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06579D55-E02E-4930-BDC4-A18A8140D0FE}
+	EndGlobalSection
+EndGlobal
